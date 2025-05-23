@@ -1,0 +1,8 @@
+{
+  "name": "AI Conflict Mediator",
+  "short_name": "Mediator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "AI-powered platform for conflict resolution"
+}
